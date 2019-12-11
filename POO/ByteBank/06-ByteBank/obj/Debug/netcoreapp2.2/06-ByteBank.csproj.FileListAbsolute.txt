@@ -1,0 +1,11 @@
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.2\06-ByteBank.deps.json
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.2\06-ByteBank.runtimeconfig.json
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.2\06-ByteBank.runtimeconfig.dev.json
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.2\06-ByteBank.dll
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.2\06-ByteBank.pdb
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.2\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.2\06-ByteBank.AssemblyInfoInputs.cache
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.2\06-ByteBank.AssemblyInfo.cs
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.2\06-ByteBank.dll
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.2\06-ByteBank.pdb
+C:\Users\gfigueiredo\Desktop\C#_Estudo\POO\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.2\06-ByteBank.csprojAssemblyReference.cache
