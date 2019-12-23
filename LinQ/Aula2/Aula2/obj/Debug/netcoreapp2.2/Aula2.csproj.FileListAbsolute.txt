@@ -1,0 +1,11 @@
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\bin\Debug\netcoreapp2.2\Aula2.deps.json
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\bin\Debug\netcoreapp2.2\Aula2.runtimeconfig.json
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\bin\Debug\netcoreapp2.2\Aula2.runtimeconfig.dev.json
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\bin\Debug\netcoreapp2.2\Aula2.dll
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\bin\Debug\netcoreapp2.2\Aula2.pdb
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\obj\Debug\netcoreapp2.2\Aula2.csprojAssemblyReference.cache
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\obj\Debug\netcoreapp2.2\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\obj\Debug\netcoreapp2.2\Aula2.AssemblyInfoInputs.cache
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\obj\Debug\netcoreapp2.2\Aula2.AssemblyInfo.cs
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\obj\Debug\netcoreapp2.2\Aula2.dll
+C:\Users\gfigueiredo\Documents\C-sharp-Estudo\LinQ\Aula2\Aula2\obj\Debug\netcoreapp2.2\Aula2.pdb

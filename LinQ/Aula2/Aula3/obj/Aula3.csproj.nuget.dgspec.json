@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gfigueiredo\\Documents\\C-sharp-Estudo\\LinQ\\Aula2\\Aula3\\Aula3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gfigueiredo\\Documents\\C-sharp-Estudo\\LinQ\\Aula2\\Aula3\\Aula3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gfigueiredo\\Documents\\C-sharp-Estudo\\LinQ\\Aula2\\Aula3\\Aula3.csproj",
+        "projectName": "Aula3",
+        "projectPath": "C:\\Users\\gfigueiredo\\Documents\\C-sharp-Estudo\\LinQ\\Aula2\\Aula3\\Aula3.csproj",
+        "packagesPath": "C:\\Users\\gfigueiredo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gfigueiredo\\Documents\\C-sharp-Estudo\\LinQ\\Aula2\\Aula3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfigueiredo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
